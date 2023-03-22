@@ -10,8 +10,7 @@ from prettytable import PrettyTable
 
 # Set the webhook URL for your Slack app
 
-#webhook_url = os.environ["SLACK_VERSION_URL"]
-webhook_url = "https://hooks.slack.com/services/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"
+webhook_url = os.environ["SLACK_VERSION_URL"]
 
 # Define a list of provider names to check
 providers = [
