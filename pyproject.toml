@@ -1,6 +1,6 @@
 [tool.semantic_release]
 version_variable = [
-    "pvb/__init__.py:__version__"
+    "__init__.py:__version__"
 ]
 version_toml = [
     "pyproject.toml:tool.poetry.version"
@@ -27,7 +27,6 @@ python = "^3.10"
 requests = "^2.28.2"
 semver = "^2.13.0"
 redis = "^4.5.2"
-logging = "^0.4.9.6"
 prettytable = "^3.6.0"
 
 
