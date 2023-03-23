@@ -122,17 +122,6 @@ files = [
 ]
 
 [[package]]
-name = "logging"
-version = "0.4.9.6"
-description = "A logging module for Python"
-category = "main"
-optional = false
-python-versions = "*"
-files = [
-    {file = "logging-0.4.9.6.tar.gz", hash = "sha256:26f6b50773f085042d301085bd1bf5d9f3735704db9f37c1ce6d8b85c38f2417"},
-]
-
-[[package]]
 name = "prettytable"
 version = "3.6.0"
 description = "A simple Python library for easily displaying tabular data in a visually appealing ASCII table format"
@@ -235,4 +224,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "778df50b612bd5a9068c6a7b87b73e6cdb8c8b9f53de303b29dd2c76e5ce86db"
+content-hash = "6ce9d57baad83bd1f1549f5d2978445f18b15b5bfbf53e7dd9daa4720b2a4519"
