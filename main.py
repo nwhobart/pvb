@@ -26,7 +26,7 @@ providers = [
 ]
 
 # Connect to Redis
-redis_client = redis.Redis(host=os.environ["REDIS_HOSTNAME"], port=6379)
+redis_client = redis.Redis(host=os.environ["REDIS_HOSTNAME"], port=os.environ["REDIS_PORT"])
 
 # Create a table to store the provider names and versions
 table = PrettyTable()
