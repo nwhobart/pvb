@@ -22,8 +22,12 @@ try:
     webhook_url = os.environ["SLACK_WEBHOOK_URL"]
 except KeyError:
     logger.error("The SLACK_WEBHOOK_URL environment variable is required.")
-    logger.error("Please pass it using the '-e' flag when running the Docker container:")
-    logger.error("    docker run -e SLACK_WEBHOOK_URL=$SLACK_WEBHOOK_URL your_image_name")
+    logger.error(
+        "Please pass it using the '-e' flag when running the Docker container:"
+    )
+    logger.error(
+        "    docker run -e SLACK_WEBHOOK_URL=$SLACK_WEBHOOK_URL your_image_name"
+    )
     exit(1)
 
 # Define a list of provider names to check
@@ -41,7 +45,9 @@ providers = [
 # Set the webhook URL for your Slack app
 webhook_url = os.environ["SLACK_WEBHOOK_URL"]
 # Connect to Redis
-redis_client = redis.Redis(host=os.environ["REDIS_HOSTNAME"], port=os.environ["REDIS_PORT"])
+redis_client = redis.Redis(
+    host=os.environ["REDIS_HOSTNAME"], port=os.environ["REDIS_PORT"]
+)
 
 # Create a table to store the provider names and versions
 table = PrettyTable()
