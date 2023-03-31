@@ -9,9 +9,22 @@ import semver
 import sys
 from prettytable import PrettyTable
 
-# Set the webhook URL for your Slack app
+# Create a logger
+logging.basicConfig(
+    stream=sys.stdout,
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+)
+logger = logging.getLogger("terraform_versions")
 
-webhook_url = os.environ["SLACK_VERSION_URL"]
+# Checks:
+try:
+    webhook_url = os.environ["SLACK_WEBHOOK_URL"]
+except KeyError:
+    logger.error("The SLACK_WEBHOOK_URL environment variable is required.")
+    logger.error("Please pass it using the '-e' flag when running the Docker container:")
+    logger.error("    docker run -e SLACK_WEBHOOK_URL=$SLACK_WEBHOOK_URL your_image_name")
+    exit(1)
 
 # Define a list of provider names to check
 providers = [
@@ -25,6 +38,8 @@ providers = [
     "strongdm/sdm",
 ]
 
+# Set the webhook URL for your Slack app
+webhook_url = os.environ["SLACK_WEBHOOK_URL"]
 # Connect to Redis
 redis_client = redis.Redis(host=os.environ["REDIS_HOSTNAME"], port=os.environ["REDIS_PORT"])
 
@@ -34,14 +49,6 @@ table.field_names = ["Provider", "Previous Version", "Current Version"]
 
 # Create a dictionary to store the current version of all providers
 current_versions = {}
-
-# Create a logger
-logging.basicConfig(
-    stream=sys.stdout,
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
-logger = logging.getLogger("terraform_versions")
 
 # Iterate over the list of providers
 updated_providers = []

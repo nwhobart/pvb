@@ -3,3 +3,9 @@
 
 # pvb
 Posting Terraform provider versions to a Slack channel
+
+## Requirements
+I need to write this
+
+## Docker
+I need to write this
