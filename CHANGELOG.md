@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.0 (2023-03-31)
+### Feature
+* Maybe this gha will work for gha ([#7](https://github.com/nwhobart/pvb/issues/7)) ([`2e80d21`](https://github.com/nwhobart/pvb/commit/2e80d217e2c516ec5bda1b2b762265b586ca7ab0))
+
 ## v0.0.3 (2023-03-31)
 ### Fix
 * Will this work? ([#6](https://github.com/nwhobart/pvb/issues/6)) ([`33f082d`](https://github.com/nwhobart/pvb/commit/33f082d221a846d56e3f8ef17c2841aa8add8c8e))
