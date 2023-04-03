@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.2 (2023-04-03)
+### Fix
+* Updating branch name on gha ([`4e2f41f`](https://github.com/nwhobart/pvb/commit/4e2f41fe2086ebe42002edc1133b8cd6051f1e17))
+
 ## v0.1.1 (2023-04-03)
 ### Fix
 * Updating GHA workflow. fixing pyproject ([`3d9c81e`](https://github.com/nwhobart/pvb/commit/3d9c81e844e2991c14aaa84564ee840a5f0623c2))
