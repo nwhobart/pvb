@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.1 (2023-04-03)
+### Fix
+* Updating GHA workflow. fixing pyproject ([`3d9c81e`](https://github.com/nwhobart/pvb/commit/3d9c81e844e2991c14aaa84564ee840a5f0623c2))
+
 ## v0.1.0 (2023-03-31)
 ### Feature
 * Maybe this gha will work for gha ([#7](https://github.com/nwhobart/pvb/issues/7)) ([`2e80d21`](https://github.com/nwhobart/pvb/commit/2e80d217e2c516ec5bda1b2b762265b586ca7ab0))
