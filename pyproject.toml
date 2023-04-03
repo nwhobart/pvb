@@ -19,6 +19,9 @@ name = "pvb"
 version = "0.1.0"
 description = "A tool for posting Terraform provider versions to Slack"
 authors = ["Nick Hobart <nick@hobart.io>"]
+packages = [
+  { include = "main.py" },
+]
 license = "GPL-3.0-or-later"
 readme = "README.md"
 
