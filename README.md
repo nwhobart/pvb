@@ -1,5 +1,5 @@
 [![CodeQL](https://github.com/nwhobart/pvb/actions/workflows/github-code-scanning/codeql/badge.svg?branch=main)](https://github.com/nwhobart/pvb/actions/workflows/github-code-scanning/codeql)
-[![Lint](https://github.com/nwhobart/pvb/actions/workflows/ci_workflow.yaml/badge.svg)](https://github.com/nwhobart/pvb/actions/workflows/ci_workflow.yaml)
+[![Lint](https://github.com/nwhobart/pvb/actions/workflows/python_lint.yaml/badge.svg)](https://github.com/nwhobart/pvb/actions/workflows/python_lint.yaml)
 [![Semantic Release](https://github.com/nwhobart/pvb/actions/workflows/release.yaml/badge.svg)](https://github.com/nwhobart/pvb/actions/workflows/release.yaml)
 
 # pvb
