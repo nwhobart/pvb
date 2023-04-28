@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.6 (2023-04-28)
+### Fix
+* **deps:** Update dependency prettytable to v3.7.0 ([`d5697df`](https://github.com/nwhobart/pvb/commit/d5697df80cbf2cb0fd6ed7288f6ad3509eae87b2))
+
 ## v0.1.5 (2023-04-03)
 ### Fix
 * Renaming file ([`f5250ca`](https://github.com/nwhobart/pvb/commit/f5250cac9673024bd59f5071b7db284765b9eaaf))
