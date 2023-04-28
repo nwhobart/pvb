@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.7 (2023-04-28)
+### Fix
+* **deps:** Update dependency semver to v3 ([`259bc5d`](https://github.com/nwhobart/pvb/commit/259bc5d7b681bba7d74373af465a86f7cb73ce49))
+
 ## v0.1.6 (2023-04-28)
 ### Fix
 * **deps:** Update dependency prettytable to v3.7.0 ([`d5697df`](https://github.com/nwhobart/pvb/commit/d5697df80cbf2cb0fd6ed7288f6ad3509eae87b2))
