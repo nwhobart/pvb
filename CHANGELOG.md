@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.9 (2023-05-05)
+### Fix
+* **deps:** Update dependency requests to v2.30.0 ([`d868a92`](https://github.com/nwhobart/pvb/commit/d868a92ddef175ad3fda513b7be546c700589b0b))
+
 ## v0.1.8 (2023-04-28)
 ### Fix
 * **deps:** Update dependency requests to v2.29.0 ([`da597a3`](https://github.com/nwhobart/pvb/commit/da597a3b17e1ca0533b7175261683b2a5285195c))
