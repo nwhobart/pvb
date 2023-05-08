@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.10 (2023-05-08)
+### Fix
+* **deps:** Update dependency redis to v4.5.5 ([`485fdf5`](https://github.com/nwhobart/pvb/commit/485fdf5fe85832034ed3ae93cbfc53785f2485ee))
+
 ## v0.1.9 (2023-05-05)
 ### Fix
 * **deps:** Update dependency requests to v2.30.0 ([`d868a92`](https://github.com/nwhobart/pvb/commit/d868a92ddef175ad3fda513b7be546c700589b0b))
