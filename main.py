@@ -32,6 +32,7 @@ except KeyError:
 
 # Define a list of provider names to check
 providers = [
+    "hashicorp/archive",
     "hashicorp/aws",
     "hashicorp/helm",
     "hashicorp/http",
@@ -39,6 +40,7 @@ providers = [
     "hashicorp/null",
     "hashicorp/random",
     "hashicorp/tls",
+    "netskopeoss/netskope",
     "strongdm/sdm",
 ]
 
