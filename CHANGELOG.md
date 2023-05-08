@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.0 (2023-05-08)
+### Feature
+* **deps:** Adding archive and netskope providers ([`8b1affd`](https://github.com/nwhobart/pvb/commit/8b1affdae862010ae952769cb8e60cfb6e9035b9))
+
 ## v0.1.10 (2023-05-08)
 ### Fix
 * **deps:** Update dependency redis to v4.5.5 ([`485fdf5`](https://github.com/nwhobart/pvb/commit/485fdf5fe85832034ed3ae93cbfc53785f2485ee))
