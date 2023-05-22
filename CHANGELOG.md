@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.1 (2023-05-22)
+### Fix
+* **deps:** Update dependency requests to v2.31.0 ([`d709309`](https://github.com/nwhobart/pvb/commit/d70930989d573fe8af8629d67e1edb9811bf4cf5))
+
 ## v0.2.0 (2023-05-08)
 ### Feature
 * **deps:** Adding archive and netskope providers ([`8b1affd`](https://github.com/nwhobart/pvb/commit/8b1affdae862010ae952769cb8e60cfb6e9035b9))
