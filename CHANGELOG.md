@@ -2,6 +2,12 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.2 (2023-06-11)
+
+### Fix
+
+* **deps:** Update dependency prettytable to v3.8.0 ([`7da9c99`](https://github.com/nwhobart/pvb/commit/7da9c9926941ad4e12ae4fbec481f84e7242df8f))
+
 ## v0.2.1 (2023-05-22)
 ### Fix
 * **deps:** Update dependency requests to v2.31.0 ([`d709309`](https://github.com/nwhobart/pvb/commit/d70930989d573fe8af8629d67e1edb9811bf4cf5))
