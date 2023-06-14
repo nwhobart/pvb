@@ -2,6 +2,12 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.3 (2023-06-14)
+
+### Fix
+
+* **deps:** Update dependency semver to v3.0.1 ([`3dc9250`](https://github.com/nwhobart/pvb/commit/3dc92508b1113dbfd2a06701f53c7a359ef9c79c))
+
 ## v0.2.2 (2023-06-11)
 
 ### Fix
