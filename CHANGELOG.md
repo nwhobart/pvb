@@ -2,6 +2,12 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.4 (2023-06-26)
+
+### Fix
+
+* **deps:** Update dependency redis to v4.6.0 ([`a86da72`](https://github.com/nwhobart/pvb/commit/a86da7298b7299d4dd0bfc1603806544f2195256))
+
 ## v0.2.3 (2023-06-14)
 
 ### Fix
