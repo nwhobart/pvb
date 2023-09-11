@@ -2,6 +2,17 @@
 
 
 
+## v0.2.6 (2023-09-11)
+
+### Chore
+
+* chore(deps): update actions/checkout action to v4 ([`e27950c`](https://github.com/nwhobart/pvb/commit/e27950cb2315b121d9e62fd7cb6070d2262140e3))
+
+### Fix
+
+* fix(deps): update dependency prettytable to v3.9.0 ([`9682a88`](https://github.com/nwhobart/pvb/commit/9682a8803b9a78baf90e2edfe05d3e3ff4ae1ea9))
+
+
 ## v0.2.5 (2023-08-21)
 
 ### Chore
