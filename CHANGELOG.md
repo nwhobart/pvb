@@ -2,6 +2,25 @@
 
 
 
+## v0.2.7 (2023-09-26)
+
+### Chore
+
+* chore(deps): update docker/build-push-action action to v5 ([`75940eb`](https://github.com/nwhobart/pvb/commit/75940eb1a6f720a8a81603dfe2cfee1b4828545f))
+
+* chore(deps): update docker/login-action action to v3 ([`144b3f0`](https://github.com/nwhobart/pvb/commit/144b3f08d96cc25fddd4e1ea4a4b37722adc70e5))
+
+* chore(deps): update docker/metadata-action action to v5 ([`6cce74b`](https://github.com/nwhobart/pvb/commit/6cce74b58742c5173a18dafd835c84806f2c7aae))
+
+* chore(deps): update docker/setup-buildx-action action to v3 ([`b420234`](https://github.com/nwhobart/pvb/commit/b4202345139aa54eb0d4d4dba090a22d0dfdc74e))
+
+* chore(deps): update docker/setup-qemu-action action to v3 ([`376ddd5`](https://github.com/nwhobart/pvb/commit/376ddd5272a6682125e3bb24bc2a8ca96eba91ea))
+
+### Fix
+
+* fix(deps): update dependency redis to v5.0.1 ([`c3bdb72`](https://github.com/nwhobart/pvb/commit/c3bdb729e295869c5f04f882711c4b2399491c85))
+
+
 ## v0.2.6 (2023-09-11)
 
 ### Chore
