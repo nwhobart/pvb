@@ -2,6 +2,34 @@
 
 
 
+## v0.2.8 (2023-10-09)
+
+### Chore
+
+* chore(deps): update python docker tag to v3.12 ([`c4cc85e`](https://github.com/nwhobart/pvb/commit/c4cc85ebed8c5afde8906d055fb1a296e4a50b7c))
+
+* chore(deps): bump urllib3 from 1.26.15 to 1.26.17
+
+Bumps [urllib3](https://github.com/urllib3/urllib3) from 1.26.15 to 1.26.17.
+- [Release notes](https://github.com/urllib3/urllib3/releases)
+- [Changelog](https://github.com/urllib3/urllib3/blob/main/CHANGES.rst)
+- [Commits](https://github.com/urllib3/urllib3/compare/1.26.15...1.26.17)
+
+---
+updated-dependencies:
+- dependency-name: urllib3
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`f3cb845`](https://github.com/nwhobart/pvb/commit/f3cb845400fa61a457e0920b8b30d8c68716decc))
+
+* chore(deps): update actions/checkout digest to 8ade135 ([`eb3da27`](https://github.com/nwhobart/pvb/commit/eb3da272330ad70fe558dbcb0b65e246d4fd1eb0))
+
+### Fix
+
+* fix(deps): update dependency semver to v3.0.2 ([`9a69b8d`](https://github.com/nwhobart/pvb/commit/9a69b8d8ba659ba8f5c6945ad63fd8d7d763aa03))
+
+
 ## v0.2.7 (2023-09-26)
 
 ### Chore
