@@ -1,6 +1,67 @@
 # CHANGELOG
 
+## v0.2.9 (2024-07-12)
 
+### Chore
+
+* chore(deps): bump urllib3 from 1.26.18 to 1.26.19
+
+Bumps [urllib3](https://github.com/urllib3/urllib3) from 1.26.18 to 1.26.19.
+- [Release notes](https://github.com/urllib3/urllib3/releases)
+- [Changelog](https://github.com/urllib3/urllib3/blob/1.26.19/CHANGES.rst)
+- [Commits](https://github.com/urllib3/urllib3/compare/1.26.18...1.26.19)
+
+---
+updated-dependencies:
+- dependency-name: urllib3
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`7d7f9aa`](https://github.com/nwhobart/pvb/commit/7d7f9aaf0c1feed3658e82dc1cfea7f1925b74fd))
+
+* chore(deps): update docker/build-push-action action to v6 ([`68d60b5`](https://github.com/nwhobart/pvb/commit/68d60b537683a632a61a3c62d838d6b2ee8fa5de))
+
+* chore(deps): update actions/cache action to v4 ([`17dcf8e`](https://github.com/nwhobart/pvb/commit/17dcf8ef57d392bded9603501781692c33a94c25))
+
+* chore(deps): update actions/setup-python action to v5 ([`b271d43`](https://github.com/nwhobart/pvb/commit/b271d4379f286201ecc25b4abae29176e110d58f))
+
+* chore(deps): update actions/checkout digest to 692973e ([`6627fc6`](https://github.com/nwhobart/pvb/commit/6627fc6220ad2073c3f6c9b88fa4641f5e044fa3))
+
+* chore(deps): bump certifi from 2023.7.22 to 2024.7.4
+
+Bumps [certifi](https://github.com/certifi/python-certifi) from 2023.7.22 to 2024.7.4.
+- [Commits](https://github.com/certifi/python-certifi/compare/2023.07.22...2024.07.04)
+
+---
+updated-dependencies:
+- dependency-name: certifi
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`00c34c3`](https://github.com/nwhobart/pvb/commit/00c34c32c7e4738243c555f340a8a1e47cbb5038))
+
+* chore(deps): bump urllib3 from 1.26.17 to 1.26.18
+
+Bumps [urllib3](https://github.com/urllib3/urllib3) from 1.26.17 to 1.26.18.
+- [Release notes](https://github.com/urllib3/urllib3/releases)
+- [Changelog](https://github.com/urllib3/urllib3/blob/main/CHANGES.rst)
+- [Commits](https://github.com/urllib3/urllib3/compare/1.26.17...1.26.18)
+
+---
+updated-dependencies:
+- dependency-name: urllib3
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`2c5da13`](https://github.com/nwhobart/pvb/commit/2c5da13af23edcabc51bb782bc55ab891de9b795))
+
+### Fix
+
+* fix(deps): update dependency requests to v2.32.3 ([`b1b1d33`](https://github.com/nwhobart/pvb/commit/b1b1d33bb32ea1640f813a0a4b6ffe627cea12b7))
+
+* fix(deps): update dependency redis to v5.0.7 ([`1c10f6d`](https://github.com/nwhobart/pvb/commit/1c10f6d9ee46a649da290287f75f8eba35fe4818))
+
+* fix(deps): update dependency prettytable to v3.10.2 ([`0cf7419`](https://github.com/nwhobart/pvb/commit/0cf7419b180191e3295138974adb8a79ebd18049))
 
 ## v0.2.8 (2023-10-09)
 
@@ -29,7 +90,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`f3cb845`](https://g
 
 * fix(deps): update dependency semver to v3.0.2 ([`9a69b8d`](https://github.com/nwhobart/pvb/commit/9a69b8d8ba659ba8f5c6945ad63fd8d7d763aa03))
 
-
 ## v0.2.7 (2023-09-26)
 
 ### Chore
@@ -48,7 +108,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`f3cb845`](https://g
 
 * fix(deps): update dependency redis to v5.0.1 ([`c3bdb72`](https://github.com/nwhobart/pvb/commit/c3bdb729e295869c5f04f882711c4b2399491c85))
 
-
 ## v0.2.6 (2023-09-11)
 
 ### Chore
@@ -58,7 +117,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`f3cb845`](https://g
 ### Fix
 
 * fix(deps): update dependency prettytable to v3.9.0 ([`9682a88`](https://github.com/nwhobart/pvb/commit/9682a8803b9a78baf90e2edfe05d3e3ff4ae1ea9))
-
 
 ## v0.2.5 (2023-08-21)
 
@@ -81,13 +139,11 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`370cd30`](https://g
 
 * fix(deps): update dependency redis to v5 ([`ebac543`](https://github.com/nwhobart/pvb/commit/ebac543c74f172cfd576e24b1137bb1ffd5cb5ec))
 
-
 ## v0.2.4 (2023-06-26)
 
 ### Fix
 
 * fix(deps): update dependency redis to v4.6.0 ([`a86da72`](https://github.com/nwhobart/pvb/commit/a86da7298b7299d4dd0bfc1603806544f2195256))
-
 
 ## v0.2.3 (2023-06-14)
 
@@ -95,13 +151,11 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`370cd30`](https://g
 
 * fix(deps): update dependency semver to v3.0.1 ([`3dc9250`](https://github.com/nwhobart/pvb/commit/3dc92508b1113dbfd2a06701f53c7a359ef9c79c))
 
-
 ## v0.2.2 (2023-06-11)
 
 ### Fix
 
 * fix(deps): update dependency prettytable to v3.8.0 ([`7da9c99`](https://github.com/nwhobart/pvb/commit/7da9c9926941ad4e12ae4fbec481f84e7242df8f))
-
 
 ## v0.2.1 (2023-05-22)
 
@@ -109,20 +163,17 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`370cd30`](https://g
 
 * fix(deps): update dependency requests to v2.31.0 ([`d709309`](https://github.com/nwhobart/pvb/commit/d70930989d573fe8af8629d67e1edb9811bf4cf5))
 
-
 ## v0.2.0 (2023-05-08)
 
 ### Feature
 
 * feat(deps): adding archive and netskope providers ([`8b1affd`](https://github.com/nwhobart/pvb/commit/8b1affdae862010ae952769cb8e60cfb6e9035b9))
 
-
 ## v0.1.10 (2023-05-08)
 
 ### Fix
 
 * fix(deps): update dependency redis to v4.5.5 ([`485fdf5`](https://github.com/nwhobart/pvb/commit/485fdf5fe85832034ed3ae93cbfc53785f2485ee))
-
 
 ## v0.1.9 (2023-05-05)
 
@@ -134,20 +185,17 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`370cd30`](https://g
 
 * fix(deps): update dependency requests to v2.30.0 ([`d868a92`](https://github.com/nwhobart/pvb/commit/d868a92ddef175ad3fda513b7be546c700589b0b))
 
-
 ## v0.1.8 (2023-04-28)
 
 ### Fix
 
 * fix(deps): update dependency requests to v2.29.0 ([`da597a3`](https://github.com/nwhobart/pvb/commit/da597a3b17e1ca0533b7175261683b2a5285195c))
 
-
 ## v0.1.7 (2023-04-28)
 
 ### Fix
 
 * fix(deps): update dependency semver to v3 ([`259bc5d`](https://github.com/nwhobart/pvb/commit/259bc5d7b681bba7d74373af465a86f7cb73ce49))
-
 
 ## v0.1.6 (2023-04-28)
 
@@ -163,7 +211,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`370cd30`](https://g
 
 * Add renovate.json ([`71b531e`](https://github.com/nwhobart/pvb/commit/71b531ef607d8bb4e18cd4d2c45bb3285c12e6ee))
 
-
 ## v0.1.5 (2023-04-03)
 
 ### Fix
@@ -174,13 +221,11 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`370cd30`](https://g
 
 * fix: trying a whole new approach ([`0ddb37a`](https://github.com/nwhobart/pvb/commit/0ddb37a6e028eb52ea8175ab671a1a9b1908cf25))
 
-
 ## v0.1.4 (2023-04-03)
 
 ### Fix
 
 * fix: trying created ([`710c78f`](https://github.com/nwhobart/pvb/commit/710c78f13be734a6a5e15fd0fa671515c5359076))
-
 
 ## v0.1.3 (2023-04-03)
 
@@ -198,13 +243,11 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`370cd30`](https://g
 
 * fix: rename things and test full flow ([`2ddc5ff`](https://github.com/nwhobart/pvb/commit/2ddc5ffc1379bb9216589d86c630a1de3cdf7146))
 
-
 ## v0.1.2 (2023-04-03)
 
 ### Fix
 
 * fix: updating branch name on gha ([`4e2f41f`](https://github.com/nwhobart/pvb/commit/4e2f41fe2086ebe42002edc1133b8cd6051f1e17))
-
 
 ## v0.1.1 (2023-04-03)
 
@@ -212,13 +255,11 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt; ([`370cd30`](https://g
 
 * fix: updating GHA workflow. fixing pyproject ([`3d9c81e`](https://github.com/nwhobart/pvb/commit/3d9c81e844e2991c14aaa84564ee840a5f0623c2))
 
-
 ## v0.1.0 (2023-03-31)
 
 ### Feature
 
 * feat: maybe this gha will work for gha (#7) ([`2e80d21`](https://github.com/nwhobart/pvb/commit/2e80d217e2c516ec5bda1b2b762265b586ca7ab0))
-
 
 ## v0.0.3 (2023-03-31)
 
@@ -278,13 +319,11 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
 
 * feat: updating readme with lint badge ([`173b240`](https://github.com/nwhobart/pvb/commit/173b240b67cfa0dc3a252e7eb44290e6544d7065))
 
-
 ## v0.0.2 (2023-03-22)
 
 ### Fix
 
 * fix: remove old webhook url (#1) ([`246a749`](https://github.com/nwhobart/pvb/commit/246a7498515784d4900f35b4f4de3f568bd3566c))
-
 
 ## v0.0.1 (2023-03-22)
 
