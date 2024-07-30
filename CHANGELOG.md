@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.2.10 (2024-07-30)
+
+### Fix
+
+* fix(deps): update dependency redis to v5.0.8 ([`cd95ca4`](https://github.com/nwhobart/pvb/commit/cd95ca4d645b5b4802c08ffbb490b218d5beb7c6))
+
 ## v0.2.9 (2024-07-12)
 
 ### Chore
