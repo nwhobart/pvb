@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.2.11 (2024-08-12)
+
+### Fix
+
+* fix(deps): update dependency prettytable to v3.11.0 ([`57f2921`](https://github.com/nwhobart/pvb/commit/57f292108fc1c7e8e0bb8ad08fd71e2f2773e965))
+
 ## v0.2.10 (2024-07-30)
 
 ### Fix
