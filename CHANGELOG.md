@@ -1,7 +1,22 @@
 # CHANGELOG
 
 
+## v0.2.13 (2024-10-24)
+
+### Bug Fixes
+
+* fix(deps): update dependency redis to v5.2.0 ([`5530f30`](https://github.com/nwhobart/pvb/commit/5530f30b404a50ba258a88d4cc6c710cd8f5c8d1))
+
+### Chores
+
+* chore(deps): update actions/checkout digest to 11bd719 ([`cd87e54`](https://github.com/nwhobart/pvb/commit/cd87e546d496a9b885ddc2a07ed27b0c1c2e2092))
+
+
 ## v0.2.12 (2024-10-08)
+
+### Bug Fixes
+
+* fix(deps): update dependency redis to v5.1.1 ([`3e6d869`](https://github.com/nwhobart/pvb/commit/3e6d8695e46263b93319ee1061cd25773150044b))
 
 ### Chores
 
@@ -9,26 +24,30 @@
 
 * chore(deps): update actions/checkout digest to eef6144 ([`1e8a6c3`](https://github.com/nwhobart/pvb/commit/1e8a6c311294d36ec2dfc8e8a8a0225aa00996f5))
 
-### Fixes
-
-* fix(deps): update dependency redis to v5.1.1 ([`3e6d869`](https://github.com/nwhobart/pvb/commit/3e6d8695e46263b93319ee1061cd25773150044b))
-
 
 ## v0.2.11 (2024-08-12)
 
-### Fixes
+### Bug Fixes
 
 * fix(deps): update dependency prettytable to v3.11.0 ([`57f2921`](https://github.com/nwhobart/pvb/commit/57f292108fc1c7e8e0bb8ad08fd71e2f2773e965))
 
 
 ## v0.2.10 (2024-07-30)
 
-### Fixes
+### Bug Fixes
 
 * fix(deps): update dependency redis to v5.0.8 ([`cd95ca4`](https://github.com/nwhobart/pvb/commit/cd95ca4d645b5b4802c08ffbb490b218d5beb7c6))
 
 
 ## v0.2.9 (2024-07-12)
+
+### Bug Fixes
+
+* fix(deps): update dependency requests to v2.32.3 ([`b1b1d33`](https://github.com/nwhobart/pvb/commit/b1b1d33bb32ea1640f813a0a4b6ffe627cea12b7))
+
+* fix(deps): update dependency redis to v5.0.7 ([`1c10f6d`](https://github.com/nwhobart/pvb/commit/1c10f6d9ee46a649da290287f75f8eba35fe4818))
+
+* fix(deps): update dependency prettytable to v3.10.2 ([`0cf7419`](https://github.com/nwhobart/pvb/commit/0cf7419b180191e3295138974adb8a79ebd18049))
 
 ### Chores
 
@@ -83,16 +102,12 @@ updated-dependencies:
 
 Signed-off-by: dependabot[bot] <support@github.com> ([`2c5da13`](https://github.com/nwhobart/pvb/commit/2c5da13af23edcabc51bb782bc55ab891de9b795))
 
-### Fixes
-
-* fix(deps): update dependency requests to v2.32.3 ([`b1b1d33`](https://github.com/nwhobart/pvb/commit/b1b1d33bb32ea1640f813a0a4b6ffe627cea12b7))
-
-* fix(deps): update dependency redis to v5.0.7 ([`1c10f6d`](https://github.com/nwhobart/pvb/commit/1c10f6d9ee46a649da290287f75f8eba35fe4818))
-
-* fix(deps): update dependency prettytable to v3.10.2 ([`0cf7419`](https://github.com/nwhobart/pvb/commit/0cf7419b180191e3295138974adb8a79ebd18049))
-
 
 ## v0.2.8 (2023-10-09)
+
+### Bug Fixes
+
+* fix(deps): update dependency semver to v3.0.2 ([`9a69b8d`](https://github.com/nwhobart/pvb/commit/9a69b8d8ba659ba8f5c6945ad63fd8d7d763aa03))
 
 ### Chores
 
@@ -115,12 +130,12 @@ Signed-off-by: dependabot[bot] <support@github.com> ([`f3cb845`](https://github.
 
 * chore(deps): update actions/checkout digest to 8ade135 ([`eb3da27`](https://github.com/nwhobart/pvb/commit/eb3da272330ad70fe558dbcb0b65e246d4fd1eb0))
 
-### Fixes
-
-* fix(deps): update dependency semver to v3.0.2 ([`9a69b8d`](https://github.com/nwhobart/pvb/commit/9a69b8d8ba659ba8f5c6945ad63fd8d7d763aa03))
-
 
 ## v0.2.7 (2023-09-26)
+
+### Bug Fixes
+
+* fix(deps): update dependency redis to v5.0.1 ([`c3bdb72`](https://github.com/nwhobart/pvb/commit/c3bdb729e295869c5f04f882711c4b2399491c85))
 
 ### Chores
 
@@ -134,23 +149,23 @@ Signed-off-by: dependabot[bot] <support@github.com> ([`f3cb845`](https://github.
 
 * chore(deps): update docker/setup-qemu-action action to v3 ([`376ddd5`](https://github.com/nwhobart/pvb/commit/376ddd5272a6682125e3bb24bc2a8ca96eba91ea))
 
-### Fixes
-
-* fix(deps): update dependency redis to v5.0.1 ([`c3bdb72`](https://github.com/nwhobart/pvb/commit/c3bdb729e295869c5f04f882711c4b2399491c85))
-
 
 ## v0.2.6 (2023-09-11)
+
+### Bug Fixes
+
+* fix(deps): update dependency prettytable to v3.9.0 ([`9682a88`](https://github.com/nwhobart/pvb/commit/9682a8803b9a78baf90e2edfe05d3e3ff4ae1ea9))
 
 ### Chores
 
 * chore(deps): update actions/checkout action to v4 ([`e27950c`](https://github.com/nwhobart/pvb/commit/e27950cb2315b121d9e62fd7cb6070d2262140e3))
 
-### Fixes
-
-* fix(deps): update dependency prettytable to v3.9.0 ([`9682a88`](https://github.com/nwhobart/pvb/commit/9682a8803b9a78baf90e2edfe05d3e3ff4ae1ea9))
-
 
 ## v0.2.5 (2023-08-21)
+
+### Bug Fixes
+
+* fix(deps): update dependency redis to v5 ([`ebac543`](https://github.com/nwhobart/pvb/commit/ebac543c74f172cfd576e24b1137bb1ffd5cb5ec))
 
 ### Chores
 
@@ -167,35 +182,31 @@ updated-dependencies:
 
 Signed-off-by: dependabot[bot] <support@github.com> ([`370cd30`](https://github.com/nwhobart/pvb/commit/370cd30590a9e4f34820ed990b4cd5136c999e60))
 
-### Fixes
-
-* fix(deps): update dependency redis to v5 ([`ebac543`](https://github.com/nwhobart/pvb/commit/ebac543c74f172cfd576e24b1137bb1ffd5cb5ec))
-
 
 ## v0.2.4 (2023-06-26)
 
-### Fixes
+### Bug Fixes
 
 * fix(deps): update dependency redis to v4.6.0 ([`a86da72`](https://github.com/nwhobart/pvb/commit/a86da7298b7299d4dd0bfc1603806544f2195256))
 
 
 ## v0.2.3 (2023-06-14)
 
-### Fixes
+### Bug Fixes
 
 * fix(deps): update dependency semver to v3.0.1 ([`3dc9250`](https://github.com/nwhobart/pvb/commit/3dc92508b1113dbfd2a06701f53c7a359ef9c79c))
 
 
 ## v0.2.2 (2023-06-11)
 
-### Fixes
+### Bug Fixes
 
 * fix(deps): update dependency prettytable to v3.8.0 ([`7da9c99`](https://github.com/nwhobart/pvb/commit/7da9c9926941ad4e12ae4fbec481f84e7242df8f))
 
 
 ## v0.2.1 (2023-05-22)
 
-### Fixes
+### Bug Fixes
 
 * fix(deps): update dependency requests to v2.31.0 ([`d709309`](https://github.com/nwhobart/pvb/commit/d70930989d573fe8af8629d67e1edb9811bf4cf5))
 
@@ -209,45 +220,45 @@ Signed-off-by: dependabot[bot] <support@github.com> ([`370cd30`](https://github.
 
 ## v0.1.10 (2023-05-08)
 
-### Fixes
+### Bug Fixes
 
 * fix(deps): update dependency redis to v4.5.5 ([`485fdf5`](https://github.com/nwhobart/pvb/commit/485fdf5fe85832034ed3ae93cbfc53785f2485ee))
 
 
 ## v0.1.9 (2023-05-05)
 
+### Bug Fixes
+
+* fix(deps): update dependency requests to v2.30.0 ([`d868a92`](https://github.com/nwhobart/pvb/commit/d868a92ddef175ad3fda513b7be546c700589b0b))
+
 ### Chores
 
 * chore(deps): update python docker tag to v3.11 ([`19d5d76`](https://github.com/nwhobart/pvb/commit/19d5d76756b58fda850d56021790dc5b56fa3091))
 
-### Fixes
-
-* fix(deps): update dependency requests to v2.30.0 ([`d868a92`](https://github.com/nwhobart/pvb/commit/d868a92ddef175ad3fda513b7be546c700589b0b))
-
 
 ## v0.1.8 (2023-04-28)
 
-### Fixes
+### Bug Fixes
 
 * fix(deps): update dependency requests to v2.29.0 ([`da597a3`](https://github.com/nwhobart/pvb/commit/da597a3b17e1ca0533b7175261683b2a5285195c))
 
 
 ## v0.1.7 (2023-04-28)
 
-### Fixes
+### Bug Fixes
 
 * fix(deps): update dependency semver to v3 ([`259bc5d`](https://github.com/nwhobart/pvb/commit/259bc5d7b681bba7d74373af465a86f7cb73ce49))
 
 
 ## v0.1.6 (2023-04-28)
 
+### Bug Fixes
+
+* fix(deps): update dependency prettytable to v3.7.0 ([`d5697df`](https://github.com/nwhobart/pvb/commit/d5697df80cbf2cb0fd6ed7288f6ad3509eae87b2))
+
 ### Chores
 
 * chore: updating lint badge ([`73cd431`](https://github.com/nwhobart/pvb/commit/73cd431ef8166e2ccee10b7e200319bbf4404746))
-
-### Fixes
-
-* fix(deps): update dependency prettytable to v3.7.0 ([`d5697df`](https://github.com/nwhobart/pvb/commit/d5697df80cbf2cb0fd6ed7288f6ad3509eae87b2))
 
 ### Unknown
 
@@ -256,7 +267,7 @@ Signed-off-by: dependabot[bot] <support@github.com> ([`370cd30`](https://github.
 
 ## v0.1.5 (2023-04-03)
 
-### Fixes
+### Bug Fixes
 
 * fix: renaming file ([`f5250ca`](https://github.com/nwhobart/pvb/commit/f5250cac9673024bd59f5071b7db284765b9eaaf))
 
@@ -267,12 +278,16 @@ Signed-off-by: dependabot[bot] <support@github.com> ([`370cd30`](https://github.
 
 ## v0.1.4 (2023-04-03)
 
-### Fixes
+### Bug Fixes
 
 * fix: trying created ([`710c78f`](https://github.com/nwhobart/pvb/commit/710c78f13be734a6a5e15fd0fa671515c5359076))
 
 
 ## v0.1.3 (2023-04-03)
+
+### Bug Fixes
+
+* fix: rename things and test full flow ([`2ddc5ff`](https://github.com/nwhobart/pvb/commit/2ddc5ffc1379bb9216589d86c630a1de3cdf7146))
 
 ### Chores
 
@@ -284,21 +299,17 @@ Signed-off-by: dependabot[bot] <support@github.com> ([`370cd30`](https://github.
 
 * chore: fixing docker build login ([`9198dde`](https://github.com/nwhobart/pvb/commit/9198ddef351e84f15a688579b6a9ef67a2825014))
 
-### Fixes
-
-* fix: rename things and test full flow ([`2ddc5ff`](https://github.com/nwhobart/pvb/commit/2ddc5ffc1379bb9216589d86c630a1de3cdf7146))
-
 
 ## v0.1.2 (2023-04-03)
 
-### Fixes
+### Bug Fixes
 
 * fix: updating branch name on gha ([`4e2f41f`](https://github.com/nwhobart/pvb/commit/4e2f41fe2086ebe42002edc1133b8cd6051f1e17))
 
 
 ## v0.1.1 (2023-04-03)
 
-### Fixes
+### Bug Fixes
 
 * fix: updating GHA workflow. fixing pyproject ([`3d9c81e`](https://github.com/nwhobart/pvb/commit/3d9c81e844e2991c14aaa84564ee840a5f0623c2))
 
@@ -311,6 +322,12 @@ Signed-off-by: dependabot[bot] <support@github.com> ([`370cd30`](https://github.
 
 
 ## v0.0.3 (2023-03-31)
+
+### Bug Fixes
+
+* fix: will this work? (#6) ([`33f082d`](https://github.com/nwhobart/pvb/commit/33f082d221a846d56e3f8ef17c2841aa8add8c8e))
+
+* fix: wrong image ([`eefb68b`](https://github.com/nwhobart/pvb/commit/eefb68b9ed2f68152e7325ceba69f56ce21b899a))
 
 ### Chores
 
@@ -337,12 +354,6 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
 * chore: adding codeowners file
 
 * chore: adding some badges ([`1330bf2`](https://github.com/nwhobart/pvb/commit/1330bf2d63b98bf6a0e945a8f4f67114669cc977))
-
-### Fixes
-
-* fix: will this work? (#6) ([`33f082d`](https://github.com/nwhobart/pvb/commit/33f082d221a846d56e3f8ef17c2841aa8add8c8e))
-
-* fix: wrong image ([`eefb68b`](https://github.com/nwhobart/pvb/commit/eefb68b9ed2f68152e7325ceba69f56ce21b899a))
 
 ### Unknown
 
@@ -371,14 +382,14 @@ Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.c
 
 ## v0.0.2 (2023-03-22)
 
-### Fixes
+### Bug Fixes
 
 * fix: remove old webhook url (#1) ([`246a749`](https://github.com/nwhobart/pvb/commit/246a7498515784d4900f35b4f4de3f568bd3566c))
 
 
 ## v0.0.1 (2023-03-22)
 
-### Fixes
+### Bug Fixes
 
 * fix(pvb): initial commit ([`9afd8fc`](https://github.com/nwhobart/pvb/commit/9afd8fc31d720d97979c53bc2a0b437eeeacc19f))
 
