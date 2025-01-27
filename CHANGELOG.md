@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.2.17 (2025-01-27)
+
+### Bug Fixes
+
+- **deps**: Update dependency semver to v3.0.4
+  ([`3d95b07`](https://github.com/nwhobart/pvb/commit/3d95b0792e3e478eb9c96098610c93662576d9fc))
+
+
 ## v0.2.16 (2025-01-19)
 
 ### Bug Fixes
