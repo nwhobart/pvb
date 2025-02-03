@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.2.19 (2025-02-03)
+
+### Bug Fixes
+
+- **deps**: Update dependency prettytable to v3.14.0
+  ([`a8d1e2b`](https://github.com/nwhobart/pvb/commit/a8d1e2be50853833b894410abace6944eb1fcb3e))
+
+
 ## v0.2.18 (2025-01-27)
 
 ### Bug Fixes
@@ -107,9 +115,7 @@
 Bumps [certifi](https://github.com/certifi/python-certifi) from 2023.7.22 to 2024.7.4. -
   [Commits](https://github.com/certifi/python-certifi/compare/2023.07.22...2024.07.04)
 
---- updated-dependencies: - dependency-name: certifi dependency-type: indirect
-
-...
+--- updated-dependencies: - dependency-name: certifi dependency-type: indirect ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
@@ -121,9 +127,7 @@ Bumps [urllib3](https://github.com/urllib3/urllib3) from 1.26.17 to 1.26.18. - [
   [Changelog](https://github.com/urllib3/urllib3/blob/main/CHANGES.rst) -
   [Commits](https://github.com/urllib3/urllib3/compare/1.26.17...1.26.18)
 
---- updated-dependencies: - dependency-name: urllib3 dependency-type: indirect
-
-...
+--- updated-dependencies: - dependency-name: urllib3 dependency-type: indirect ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
@@ -135,9 +139,7 @@ Bumps [urllib3](https://github.com/urllib3/urllib3) from 1.26.18 to 1.26.19. - [
   [Changelog](https://github.com/urllib3/urllib3/blob/1.26.19/CHANGES.rst) -
   [Commits](https://github.com/urllib3/urllib3/compare/1.26.18...1.26.19)
 
---- updated-dependencies: - dependency-name: urllib3 dependency-type: indirect
-
-...
+--- updated-dependencies: - dependency-name: urllib3 dependency-type: indirect ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
@@ -171,9 +173,7 @@ Bumps [urllib3](https://github.com/urllib3/urllib3) from 1.26.15 to 1.26.17. - [
   [Changelog](https://github.com/urllib3/urllib3/blob/main/CHANGES.rst) -
   [Commits](https://github.com/urllib3/urllib3/compare/1.26.15...1.26.17)
 
---- updated-dependencies: - dependency-name: urllib3 dependency-type: indirect
-
-...
+--- updated-dependencies: - dependency-name: urllib3 dependency-type: indirect ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
@@ -237,9 +237,7 @@ Signed-off-by: dependabot[bot] <support@github.com>
 Bumps [certifi](https://github.com/certifi/python-certifi) from 2022.12.7 to 2023.7.22. -
   [Commits](https://github.com/certifi/python-certifi/compare/2022.12.07...2023.07.22)
 
---- updated-dependencies: - dependency-name: certifi dependency-type: indirect
-
-...
+--- updated-dependencies: - dependency-name: certifi dependency-type: indirect ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
@@ -432,9 +430,7 @@ Bumps [redis](https://github.com/redis/redis-py) from 4.5.3 to 4.5.4. - [Release
   [Changelog](https://github.com/redis/redis-py/blob/master/CHANGES) -
   [Commits](https://github.com/redis/redis-py/compare/v4.5.3...v4.5.4)
 
---- updated-dependencies: - dependency-name: redis dependency-type: direct:production
-
-...
+--- updated-dependencies: - dependency-name: redis dependency-type: direct:production ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
