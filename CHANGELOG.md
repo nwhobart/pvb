@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v0.2.21 (2025-03-25)
+
+### Bug Fixes
+
+- **deps**: Update dependency prettytable to v3.16.0
+  ([`d34ecee`](https://github.com/nwhobart/pvb/commit/d34eceea6fe14e4cfb0c098c77f9b94ba9eb5263))
+
+### Chores
+
+- **deps**: Update dependency python to 3.13
+  ([`0b65e91`](https://github.com/nwhobart/pvb/commit/0b65e91336aa6cbd2bd2660865eec68fdc3e2640))
+
+
 ## v0.2.20 (2025-02-28)
 
 ### Bug Fixes
