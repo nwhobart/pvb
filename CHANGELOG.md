@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.2.22 (2025-05-01)
+
+### Bug Fixes
+
+- **deps**: Update dependency redis to v6
+  ([`2cc1bd6`](https://github.com/nwhobart/pvb/commit/2cc1bd605fd36c902741158f955765e99747cd23))
+
+
 ## v0.2.21 (2025-03-25)
 
 ### Bug Fixes
