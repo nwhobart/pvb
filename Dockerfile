@@ -1,5 +1,5 @@
 # First stage: Build
-FROM python:3.13-alpine AS builder
+FROM python:3.14-alpine AS builder
 
 # Install build dependencies, Python packages, and remove build dependencies
 RUN apk add --no-cache --virtual .build-deps gcc musl-dev libffi-dev make openssl-dev \
@@ -7,7 +7,7 @@ RUN apk add --no-cache --virtual .build-deps gcc musl-dev libffi-dev make openss
     && apk del .build-deps
 
 # Second stage: Final image
-FROM python:3.13-alpine
+FROM python:3.14-alpine
 
 # Copy installed packages from builder
 COPY --from=builder /root/.local /root/.local
